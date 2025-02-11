@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-#import plotly.express as px
+import plotly.express as px
 
 # Fonction pour charger les données scrapées
 def load_data():
